@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "6NjGxmI1QpWCFgEUjcUTceLgp1SVZI4hmElKOBhUSlY=",
+  "Source": "LabNet",
+  "BasePath": "_content/LabNet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "LabNet\\wwwroot",
+      "Source": "LabNet",
+      "ContentRoot": "C:\\Users\\ruslanra\\source\\repos\\LabNet\\LabNet\\wwwroot\\",
+      "BasePath": "_content/LabNet",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
